@@ -1,0 +1,10 @@
+/target
+.env.local
+**/.DS_Store
+redistributable_bin/**
+/backup
+/godot
+.envrc
+mise.local.toml
+mise.*.local.toml
+.cache/**
