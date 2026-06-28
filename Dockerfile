@@ -4,7 +4,7 @@ USER root
 SHELL ["/bin/bash", "-c"]
 ENV DEBIAN_FRONTEND=noninteractive
 
-ARG GODOT_VERSION="4.7.0"
+ARG GODOT_VERSION="4.7"
 ARG RELEASE_NAME="stable"
 ARG GODOT_PLATFORM="linux.x86_64"
 
